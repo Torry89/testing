@@ -1,0 +1,5 @@
+.idea/
+.venv/
+.gigaide/
+main_2.py
+settings.py
